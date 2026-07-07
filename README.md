@@ -89,13 +89,13 @@ We believe trading automation should be **transparent**, **inspectable**, and **
 ## Highlights
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  Strategy Studio    Visual builder · indicators · risk caps │
-│  Backtest Lab       Historical runs before live capital       │
-│  AI Debate Arena    Multi-model consensus before execution    │
-│  Live Competition   Leaderboard across agents & strategies    │
-│  Wallet Agent       Portfolio analysis · swap intent parsing  │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│  Strategy Studio    Visual builder · indicators · risk caps  │
+│  Backtest Lab       Historical runs before live capital      │
+│  AI Debate Arena    Multi-model consensus before execution   │
+│  Live Competition   Leaderboard across agents & strategies   │
+│  Wallet Agent       Portfolio analysis · swap intent parsing │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
