@@ -106,6 +106,6 @@ We believe trading automation should be **transparent**, **inspectable**, and **
 
 <br />
 
-<sub>EVA Protocol · Built on Base · 2026</sub>
+<sub>EVA Protocol · Built on Robinhood · 2026</sub>
 
 </div>
