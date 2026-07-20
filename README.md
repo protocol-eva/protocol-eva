@@ -25,6 +25,18 @@ Built in the open. Auditable. Self-hostable.
 
 ---
 
+## Contract
+
+| Network | Address |
+|---------|---------|
+| **Robinhood Chain** | [`0x6e94eda608eec1f30cd9add9d4f5f28d25903334`](https://robinhoodchain.blockscout.com/address/0x6e94eda608eec1f30cd9add9d4f5f28d25903334) |
+
+```
+0x6e94eda608eec1f30cd9add9d4f5f28d25903334
+```
+
+---
+
 ## Repositories
 
 | Project | Description |
